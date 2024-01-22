@@ -1,1 +1,1 @@
-# sales-insights-in-power-bi-
+# sales insights in PowerBi
